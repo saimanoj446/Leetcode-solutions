@@ -23,10 +23,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Matrix
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
