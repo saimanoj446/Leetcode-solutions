@@ -28,8 +28,9 @@ public:
             if(nums[i]==el1) ch1++;
             if(nums[i]==el2) ch2++;
         }
-        if(ch1>n/3) ans.push_back(el1);
-        if(ch2>n/3) ans.push_back(el2);
+        int limit=(int)(n/3)+1;
+        if(ch1>=limit) ans.push_back(el1);
+        if(ch2>=limit) ans.push_back(el2);
         return ans;
     }
 };
