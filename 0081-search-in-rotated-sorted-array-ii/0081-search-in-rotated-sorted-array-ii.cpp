@@ -10,8 +10,8 @@ public:
                 return true;
             }
             if (nums[low] == nums[mid] && nums[mid] == nums[high]) {
-                low = low + 1;
-                high = high - 1;
+                low++;
+                high--;
                 continue; // Skip the rest of the loop and recalculate mid
             }
             //left half sorted
