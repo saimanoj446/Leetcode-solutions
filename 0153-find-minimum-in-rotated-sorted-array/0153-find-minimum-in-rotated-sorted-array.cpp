@@ -8,6 +8,11 @@ public:
         int  mini=INT_MAX;
         while(low<=high){
             mid=low+(high-low)/2;
+            //optimization
+            if(nums[low]<=nums[high]){
+                mini=min(mini,nums[low]);
+                break;
+            }
             //left half sorted, so search right half
             if(nums[low]<=nums[mid]){
                 mini=min(mini,nums[low]);
