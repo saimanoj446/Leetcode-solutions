@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -152,4 +153,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
