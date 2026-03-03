@@ -1,6 +1,6 @@
 class Solution {
 public:
-    double solve(double x, long n){
+    double solve(double x, long long n){
         if(n==0) return 1;
         double half= solve(x,n/2);
         if(n%2==0){//even
