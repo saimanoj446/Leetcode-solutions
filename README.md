@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Simulation
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Recursion
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
