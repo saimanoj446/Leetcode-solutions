@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Recursion
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0090-subsets-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
