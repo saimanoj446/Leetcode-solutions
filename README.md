@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0704-binary-search) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
@@ -189,4 +191,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
