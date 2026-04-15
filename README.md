@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Graph
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0994-rotting-oranges](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0994-rotting-oranges](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Two Pointers
 |  |
