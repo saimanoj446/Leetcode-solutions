@@ -1,35 +1,42 @@
 class Solution {
 public:
+    bool dfs(int node,vector<vector<int>>&adj, vector<int> &vis,vector<int> &pathvis,vector<int> &ans){
+        vis[node]=1;
+        pathvis[node]=1;
+        for(int neighbour: adj[node]){
+            if(!vis[neighbour]&&!pathvis[neighbour]){
+                if(dfs(neighbour,adj,vis,pathvis,ans)==true){
+                    return true;
+                }
+            }
+            else if(pathvis[neighbour]){
+                return true;
+            }
+        }
+        pathvis[node]=0;
+        ans.push_back(node);
+        return false;
+    }
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> adj(numCourses);
-        for(auto it: prerequisites){
-            adj[it[1]].push_back(it[0]);
+        int n=numCourses;
+        vector<vector<int>> adj(n);
+        for(int i=0;i<prerequisites.size();i++){
+            int a=prerequisites[i][0];
+            int b=prerequisites[i][1];
+            adj[b].push_back(a);
         }
-        vector<int> indegree(numCourses, 0);
-        for(int i=0;i<numCourses;i++){
-            for(auto it: adj[i]){
-                indegree[it]++;
-            }
-        }
-        queue<int> q;
-        for(int i=0;i<numCourses;i++){
-            if(indegree[i]==0){
-                q.push(i);
-            }
-        }
-        vector<int> topo;
-        while(!q.empty()){
-            int node= q.front();
-            q.pop();
-            topo.push_back(node);
-            for(auto it:adj[node]){
-                indegree[it]--;
-                if(indegree[it]==0){
-                    q.push(it);
+        //converted into adj list
+        vector<int> vis(n,0);
+        vector<int> pathvis(n,0);
+        vector<int> ans;
+        for(int i=0;i<n;i++){
+            if(!vis[i]){
+                if(dfs(i,adj,vis,pathvis,ans)==true){
+                    return {};
                 }
             }
         }
-        if(topo.size()==numCourses) return topo;
-        else return {};
+        reverse(ans.begin(),ans.end());
+        return ans;   
     }
 };
