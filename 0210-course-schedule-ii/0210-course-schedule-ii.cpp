@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool dfs(int node,vector<vector<int>>adj, vector<int> &vis,vector<int> &pathvis,vector<int> &ans){
+    bool dfs(int node,vector<vector<int>>&adj, vector<int> &vis,vector<int> &pathvis,vector<int> &ans){
         vis[node]=1;
         pathvis[node]=1;
         for(int neighbour: adj[node]){
