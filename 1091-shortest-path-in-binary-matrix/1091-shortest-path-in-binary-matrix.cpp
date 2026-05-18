@@ -1,35 +1,31 @@
 class Solution {
 public:
     int shortestPathBinaryMatrix(vector<vector<int>>& grid) {
-        queue<pair<int,pair<int,int>>> q;
         int n= grid.size();
-        int m=grid[0].size();
-        //edge cases: if initialized with 1 and only one cell
-        if (grid[0][0] == 1 || grid[n-1][m-1] == 1) return -1;
-        if (n == 1 && m == 1) return 1;
-        vector<vector<int>> dist(n,vector<int>(m,1e9));
-        dist[0][0]=0;
-        int delrow[] = {-1, -1, 0, 1, 1, 1, 0, -1};
-        int delcol[] = {0, 1, 1, 1, 0, -1, -1, -1};
-        q.push({1,{0,0}});
-        dist[0][0] = 1;
+        if(grid[0][0]!=0 || grid[n-1][n-1]!=0) return -1;
+        if (n==1) return 1;
+        queue<pair<int,int>> q;
+        //use multisource bfs 8 directions using del row, del col
+        vector<vector<int>> dist(n,vector<int>(n,1e9));
+        dist[0][0]=1;
+        q.push({0,0});
         while(!q.empty()){
-            int r=q.front().second.first;//row
-            int c=q.front().second.second;//column
-            int d=q.front().first;//dist
+            int row_node=q.front().first;
+            int col_node=q.front().second;
             q.pop();
+            //now neighbours:
+            int delRow[] ={-1, 1, 0, 0, -1, -1, 1, 1};
+            int delCol[] ={0, 0, -1, 1, -1, 1, -1, 1};
             for(int i=0;i<8;i++){
-                int nrow=r+delrow[i];
-                int ncol=c+delcol[i];
-                if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && d+1<dist[nrow][ncol] && grid[nrow][ncol]==0){
-                    dist[nrow][ncol]=1+d;
-                    if(nrow==n-1 && ncol==m-1){
-                        return 1+d;
-                    }
-                    q.push({d+1,{nrow,ncol}});
+                int row_nei=row_node+delRow[i];
+                int col_nei=col_node+delCol[i];
+                if(row_nei>=0 &&col_nei>=0 && row_nei<n && col_nei<n && grid[row_nei][col_nei]==0 && 1+dist[row_node][col_node]<dist[row_nei][col_nei]){
+                    dist[row_nei][col_nei]=1+dist[row_node][col_node];
+                    q.push({row_nei,col_nei});
                 }
             }
         }
-        return -1;
+        if(dist[n-1][n-1]<1e9) return dist[n-1][n-1];
+        else return -1;
     }
 };
