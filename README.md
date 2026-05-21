@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [1922-count-good-numbers](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Linked List
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0542-01-matrix) |
@@ -277,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
