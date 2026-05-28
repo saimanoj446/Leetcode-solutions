@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
