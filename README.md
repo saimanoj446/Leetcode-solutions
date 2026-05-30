@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Simulation
 |  |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [1143-longest-common-subsequence](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
