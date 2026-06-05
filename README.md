@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0322-coin-change) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [1922-count-good-numbers](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Linked List
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0704-binary-search) |
@@ -279,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
