@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [1143-longest-common-subsequence](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -390,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
