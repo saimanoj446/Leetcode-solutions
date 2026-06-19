@@ -6,16 +6,13 @@ public:
         int count=0;
         for(int r=0;r<nums.size();r++){
             if(nums[r]==0) count++;
-            if(count<=k){
-                maxi=max(maxi,r-l+1);
-            }
             while(count>k){
                 if(nums[l]==0){
                     count--;
-                    l++;
                 }
-                else l++;
+                l++;
             }
+            maxi=max(maxi,r-l+1);
         }
         return maxi;
     }
