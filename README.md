@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1248-count-number-of-nice-subarrays](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0368-largest-divisible-subset) |
+| [1248-count-number-of-nice-subarrays](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Linked List
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/saimanoj446/Leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sorting
 |  |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Divide and Conquer
 |  |
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Graph Theory
 |  |
