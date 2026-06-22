@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0860-lemonade-change) |
 ## Tree
 |  |
 | ------- |
