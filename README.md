@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/saimanoj446/Leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3889-mirror-frequency-distance](https://github.com/saimanoj446/Leetcode-solutions/tree/master/3889-mirror-frequency-distance) |
 ## Sorting
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [3889-mirror-frequency-distance](https://github.com/saimanoj446/Leetcode-solutions/tree/master/3889-mirror-frequency-distance) |
 ## Binary Search
 |  |
 | ------- |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3889-mirror-frequency-distance](https://github.com/saimanoj446/Leetcode-solutions/tree/master/3889-mirror-frequency-distance) |
 ## Recursion
 |  |
 | ------- |
