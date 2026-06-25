@@ -6,14 +6,14 @@ public:
         if (n == 0) return 0;
         if (n == 1) return nums[0];
         dp[0]=nums[0];
-        for(int i=1;i<n;i++){
-            int pick = nums[i];
-            if(i>=2){
-                pick+=dp[i-2];
-            }
-            int not_pick=dp[i-1];
-            dp[i]=max(pick,not_pick);
+        int curr=max(nums[0],nums[1]),prev=nums[0],next=0;
+        for(int i=2;i<n;i++){
+            int pick=prev+nums[i];
+            int not_pick=curr;
+            next=max(pick,not_pick);
+            prev=curr;
+            curr=next;
         }
-        return dp[n-1];
+        return curr;
     }
 };
