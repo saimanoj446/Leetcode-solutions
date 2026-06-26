@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/saimanoj446/Leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saimanoj446/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/saimanoj446/Leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/saimanoj446/Leetcode-solutions/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Matrix
 |  |
 | ------- |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/saimanoj446/Leetcode-solutions/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Simulation
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1124-longest-well-performing-interval](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1124-longest-well-performing-interval) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/saimanoj446/Leetcode-solutions/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0860-lemonade-change) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/saimanoj446/Leetcode-solutions/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Tree
 |  |
 | ------- |
