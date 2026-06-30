@@ -9,7 +9,7 @@ public:
             if(nums[mid]==target){
                 return mid;
             }
-            //left half sorted
+            //left half sorted  
             else if(nums[low]<=nums[mid]){
                 if(target>=nums[low]&& target<nums[mid]){
                     high=mid-1;
