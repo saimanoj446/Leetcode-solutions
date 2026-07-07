@@ -1,29 +1,28 @@
 class Solution {
 public:
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
-        int m=image.size();//rows
-        int n=image[0].size();//cols
-        queue<pair<pair<int, int>, int>> q;//{{row,col},color}
-        vector<vector<int>>ans=image;
+        int m=image.size();
+        int n=image[0].size();
+        vector<vector<int>> ans=image;
+        queue<pair<pair<int,int>,int>> q;
+        if(image[sr][sc]==color) return ans;
         ans[sr][sc]=color;
-        int startColor=image[sr][sc];
-        if(startColor == color) return image;
         q.push({{sr,sc},color});
-        //BFS:
         while(!q.empty()){
-            int r= q.front().first.first;
-            int c= q.front().first.second;
-            int col= q.front().second;
+            auto it=q.front();
+            int row=it.first.first;
+            int col=it.first.second;
+            int colo=it.second;
+            int startColor=image[sr][sc];
             q.pop();
-            //check neighbours
-            int dRow[] = {-1, 0, 1, 0};
-            int dCol[] = {0, 1, 0, -1};
-            for(int i = 0; i < 4; i++) {
-                int nrow = r + dRow[i];
-                int ncol = c + dCol[i];
-                if(nrow>=0 && ncol>=0 && nrow<m && ncol<n && ans[nrow][ncol]==startColor){
-                    ans[nrow][ncol]=color;
-                    q.push({{nrow,ncol},color});
+            int delRow[]={-1,0,1,0};
+            int delCol[]={0,1,0,-1};
+            for(int i=0;i<4;i++){
+                int r=row+delRow[i];
+                int c=col+delCol[i];
+                if(r>=0&&c>=0&&r<m&&c<n&& ans[r][c]==startColor){
+                    ans[r][c]=color;
+                    q.push({{r,c},color});
                 }
             }
         }
