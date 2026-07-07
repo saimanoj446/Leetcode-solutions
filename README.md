@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0322-coin-change) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
