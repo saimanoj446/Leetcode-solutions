@@ -9,28 +9,29 @@ public:
             adj[u].push_back({v,wt});
             adj[v].push_back({u,wt});
         }
-        vector<long long> time(n,1e18);
+        vector<long long>time(n,LLONG_MAX);
         time[0]=0;
         vector<int> ways(n,0);
         ways[0]=1;
-        using PIII=pair<long long,int>;//time,node
+        using PIII=pair<long long,int>;//mintime,node
         priority_queue<PIII,vector<PIII>,greater<PIII>> pq;
         pq.push({0,0});
         while(!pq.empty()){
-            long long t=pq.top().first;
-            int node=pq.top().second;
+            auto it=pq.top();
+            long long currTime=it.first;
+            int currNode=it.second;
             pq.pop();
-            if (t > time[node]) continue;
-            for(auto it: adj[node]){
-                int v=it.first;
+            if(currTime>time[currNode]) continue;
+            for(auto it:adj[currNode]){
+                int nextNode=it.first;
                 long long wt=it.second;
-                if(wt+t<time[v]){
-                    time[v]=wt+t;
-                    ways[v]=ways[node];
-                    pq.push({time[v],v});
+                if(currTime+wt<time[nextNode]){
+                    time[nextNode]=currTime+wt;
+                    ways[nextNode]=ways[currNode];
+                    pq.push({time[nextNode],nextNode});
                 }
-                else if(wt+t==time[v]){
-                    ways[v]=(ways[v]+ways[node])%1000000007LL;
+                else if(currTime+wt==time[nextNode]){
+                    ways[nextNode]=(ways[nextNode]+ways[currNode])%1000000007;
                 }
             }
         }
