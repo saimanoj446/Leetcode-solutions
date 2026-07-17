@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saimanoj446/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0881-boats-to-save-people](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/saimanoj446/Leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/saimanoj446/Leetcode-solutions/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Tree
 |  |
