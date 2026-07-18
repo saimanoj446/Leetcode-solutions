@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0826-most-profit-assigning-work](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0860-lemonade-change](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0826-most-profit-assigning-work](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saimanoj446/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0826-most-profit-assigning-work](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0704-binary-search) |
+| [0826-most-profit-assigning-work](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -494,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0826-most-profit-assigning-work](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0860-lemonade-change](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/saimanoj446/Leetcode-solutions/tree/master/3891-minimum-increase-to-maximize-special-indices) |
