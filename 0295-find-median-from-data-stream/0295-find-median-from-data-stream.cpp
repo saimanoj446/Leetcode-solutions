@@ -16,10 +16,10 @@ public:
     }
     
     double findMedian() {
-        if(maxheap.size()>minheap.size()){
-            return maxheap.top();
+        if(minheap.size()==maxheap.size()){
+            return (minheap.top()+maxheap.top())/2.0;
         }
-        return (minheap.top()+maxheap.top())/2.0;
+        return maxheap.top();
     }
 };
 
