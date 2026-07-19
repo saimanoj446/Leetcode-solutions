@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0826-most-profit-assigning-work](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0502-ipo) |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -582,5 +586,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
