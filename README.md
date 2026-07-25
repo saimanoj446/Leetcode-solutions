@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String Matching
