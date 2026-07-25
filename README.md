@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1631-path-with-minimum-effort](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/saimanoj446/Leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1631-path-with-minimum-effort](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/saimanoj446/Leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Graph
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/saimanoj446/Leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/saimanoj446/Leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3889-mirror-frequency-distance](https://github.com/saimanoj446/Leetcode-solutions/tree/master/3889-mirror-frequency-distance) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/saimanoj446/Leetcode-solutions/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/saimanoj446/Leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -563,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/saimanoj446/Leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## String Matching
 |  |
 | ------- |
