@@ -8,9 +8,6 @@ public:
             mp1[s[i]-'a']++;
             mp2[t[i]-'a']++;
         }
-        for(int i=0;i<26;i++){
-            if(mp1[i]!=mp2[i]) return false;
-        }
-        return true;
+        return mp1==mp2;
     }
 };
