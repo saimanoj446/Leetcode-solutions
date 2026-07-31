@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/saimanoj446/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/saimanoj446/Leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/saimanoj446/Leetcode-solutions/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Dynamic Programming
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-flip-string-to-monotone-increasing](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1143-longest-common-subsequence](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/saimanoj446/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3889-mirror-frequency-distance](https://github.com/saimanoj446/Leetcode-solutions/tree/master/3889-mirror-frequency-distance) |
 ## Recursion
 |  |
@@ -658,4 +660,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/saimanoj446/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
