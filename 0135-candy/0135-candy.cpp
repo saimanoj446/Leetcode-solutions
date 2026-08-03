@@ -18,14 +18,14 @@ public:
                 sum+=peak;
                 i++;
             }
-            int down=0;
+            int down=1;
             while(i<n && ratings[i]<ratings[i-1]){
-                down++;
                 sum+=down;
+                down++;
                 i++;
             }
             if(down>=peak){
-                sum=sum+down-peak+1;
+                sum=sum+down-peak;
             }
         }
         return sum;
