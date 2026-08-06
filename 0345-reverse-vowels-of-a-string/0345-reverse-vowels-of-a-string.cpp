@@ -9,11 +9,13 @@ public:
         int l=0;
         int r=n-1;
         while(l<r){
-            if(!isVowel(s[r])){
+            while (l < r && !isVowel(s[l])) {
+                l++;
+            }
+            while (l < r && !isVowel(s[r])) {
                 r--;
             }
-            if(!isVowel(s[l])) l++;
-            if(isVowel(s[r])&&isVowel(s[l])){
+            if(l<r){
                 swap(s[r],s[l]);
                 l++;
                 r--;
