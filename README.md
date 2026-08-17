@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0368-largest-divisible-subset) |
+| [0458-poor-pigs](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0458-poor-pigs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [3870-count-commas-in-range](https://github.com/saimanoj446/Leetcode-solutions/tree/master/3870-count-commas-in-range) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0458-poor-pigs](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0458-poor-pigs) |
 | [0494-target-sum](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0518-coin-change-ii) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0062-unique-paths) |
+| [0458-poor-pigs](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0458-poor-pigs) |
 ## Greedy
 |  |
 | ------- |
