@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saimanoj446/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/saimanoj446/Leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Union-Find
 |  |
 | ------- |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/saimanoj446/Leetcode-solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/saimanoj446/Leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/saimanoj446/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3889-mirror-frequency-distance](https://github.com/saimanoj446/Leetcode-solutions/tree/master/3889-mirror-frequency-distance) |
 ## Recursion
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1124-longest-well-performing-interval](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1124-longest-well-performing-interval) |
 | [1776-car-fleet-ii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1776-car-fleet-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/saimanoj446/Leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/saimanoj446/Leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
