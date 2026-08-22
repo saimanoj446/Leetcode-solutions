@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1776-car-fleet-ii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1776-car-fleet-ii) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2104-sum-of-subarray-ranges](https://github.com/saimanoj446/Leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saimanoj446/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/saimanoj446/Leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0458-poor-pigs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1776-car-fleet-ii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1776-car-fleet-ii) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [3870-count-commas-in-range](https://github.com/saimanoj446/Leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saimanoj446/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/saimanoj446/Leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Union-Find
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
@@ -748,4 +752,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
