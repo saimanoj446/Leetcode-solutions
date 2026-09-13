@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0826-most-profit-assigning-work](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [1768-merge-strings-alternately](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saimanoj446/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1768-merge-strings-alternately](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/saimanoj446/Leetcode-solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/saimanoj446/Leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/saimanoj446/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
