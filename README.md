@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0733-flood-fill](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0705-design-hashset](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0705-design-hashset) |
 ## Hash Table
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0705-design-hashset](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0705-design-hashset) |
 | [0904-fruit-into-baskets](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0705-design-hashset) |
 ## Enumeration
 |  |
 | ------- |
@@ -737,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0705-design-hashset) |
 ## Binary Search Tree
 |  |
 | ------- |
