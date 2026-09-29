@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0682-baseball-game](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0705-design-hashset) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/saimanoj446/Leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saimanoj446/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/saimanoj446/Leetcode-solutions/tree/master/0853-car-fleet) |
